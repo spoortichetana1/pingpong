@@ -1,0 +1,23 @@
+/* Make the page look clean and center everything */
+body {
+  margin: 0;
+  padding: 0;
+  background: #111;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* Title styling */
+h1 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* Center the canvas */
+#gameCanvas {
+  display: block;
+  margin: 0 auto 30px auto;
+  background: #000;
+  border: 2px solid #444;
+}
