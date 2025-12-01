@@ -1,5 +1,7 @@
 # Ping Pong Game 🏓
 
+TRY GAME HERE --> https://spoortichetana1.github.io/pingpong/
+
 A simple browser-based Ping Pong (Pong) clone built with plain JavaScript using ES modules. The player controls the left paddle while a simple AI controls the right paddle. The aim is to reach the winning score before the opponent.
 
 ---
